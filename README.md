@@ -8,13 +8,11 @@ const profile = {
     computerSpecs: {
         processor: "Intel i5 6400",
         ram: "8 GB",
-        graphicsCard: "RX 580"
+        graphicsCard: "Null"
     };
     programmingLanguages: [
+        "Python"
         "C/C++",
-        "Python",
-        "HTML/CSS",
-        "Javascript"
     ];
     frameworks: [
         "Flask",
