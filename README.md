@@ -1,4 +1,4 @@
-`int main() {
+``int main() {
     Profile profile;
 
     profile.name = "Redham";
@@ -16,4 +16,4 @@
 
     return 0;
 }
-`
+``
