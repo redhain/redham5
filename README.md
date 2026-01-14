@@ -12,6 +12,5 @@ profile = {
     },
     "programmingLanguages": ["Python", "C/C++],
     "frameworks": ["Flask", "Django"],
-    "interests": ["gaming", "art", "gardening"]  # Separate items
-}
+    "interests": ["gaming", "art", "gardening"]
 ```
