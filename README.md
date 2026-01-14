@@ -1,20 +1,17 @@
-```C++
-int main() {
-    Profile profile;
-
-    profile.name = "Redham";
-
-    profile.education.institution = "Comilla gov. College, Comilla Polytechnic Institute, Bangladesh University";
-    profile.education.major = "Computer Science & Engineering, Game Development, Software Development";
-
-    profile.computerSpecs.processor = "Intel i5 6400";
-    profile.computerSpecs.ram = "8 GB";
-    profile.computerSpecs.graphicsCard = "Null";
-
-    profile.programmingLanguages = {"Python", "C/C++"};
-    profile.frameworks = {"Flask", "Django"};
-    profile.interests = {"gaming", "art", "gardening", "Cooking"};
-
-    return 0;
+```python
+profile = {
+    "name": "Redham",
+    "education": {
+        "institution": "Comilla gov. College, Comilla Polytechnic Institute, Bangladesh University",
+        "major": "Computer Science & Engineering, Game Development, Web Development"
+    },
+    "computerSpecs": {
+        "processor": "Intel i5 6400",
+        "ram": "8 GB",
+        "graphicsCard": "RX 580"
+    },
+    "programmingLanguages": ["Python", "HTML/CSS", "Javascript"],
+    "frameworks": ["Flask", "Django"],
+    "interests": ["gaming", "art", "gardening"]  # Separate items
 }
 ```
