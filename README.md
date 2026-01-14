@@ -1,4 +1,5 @@
-``int main() {
+```C++
+int main() {
     Profile profile;
 
     profile.name = "Redham";
@@ -16,4 +17,4 @@
 
     return 0;
 }
-``
+```
