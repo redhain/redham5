@@ -8,9 +8,9 @@ profile = {
     "computerSpecs": {
         "processor": "Intel i5 6400",
         "ram": "8 GB",
-        "graphicsCard": "NVIDIA GTX 1660 Ti"
+        "graphicsCard": "NVIDIA GTX 1660 Super"
     },
-    "programmingLanguages": ["Python", "C/C++],
-    "frameworks": ["Flask", "Django"],
+    "programmingLanguages": ["Python", "C"],
+    "frameworks": ["Django"],
     "interests": ["gaming", "art", "gardening"]
 ```
